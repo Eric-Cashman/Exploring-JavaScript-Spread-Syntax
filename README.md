@@ -82,5 +82,3 @@ copy.nested.value = 'changed';  // This changes original too!
 **Topic:** ES6 Spread Syntax
 
 ---
-
-Made with ❤️ for learning JavaScript
